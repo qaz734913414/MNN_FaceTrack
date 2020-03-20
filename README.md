@@ -1,10 +1,11 @@
 # MNN_FaceTrack
 
-MNN基于mtcnn人脸检测+onet人脸跟踪
+MNN基于mtcnn人脸检测+onet人脸跟踪,在i7-9700k的cpu检测速度可高达500fps。
 
 # 开发环境
 
 win7
+
 vs2015
 
 
